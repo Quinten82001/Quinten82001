@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Quinten82001
+- 👋🏾 Hi, I’m @Quinten82001
 - 👀 I’m interested in Software Engineering 
 and Web Development
 - 🌱 I’m currently learning Java
